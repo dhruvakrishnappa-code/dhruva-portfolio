@@ -198,6 +198,7 @@ body {
   .hero h1 { font-size: 2.3rem; }
   .about-grid, .skills-grid, .project { grid-template-columns: 1fr; }
   .project-aside { border-left: 0; padding-left: 0; border-top: 1px solid var(--border); padding-top: 1rem; }
-  .nav-links { gap: 0.9rem; font-size: 0.85rem; }
+  .nav-inner { flex-wrap: wrap; gap: 0.5rem; }
+  .nav-links { gap: 0.8rem; font-size: 0.85rem; flex-wrap: wrap; justify-content: flex-end; }
   .hero-photo { justify-content: flex-start; }
 }
