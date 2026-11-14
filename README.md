@@ -2,7 +2,7 @@
 
 Personal portfolio website. Static HTML/CSS/JS, no build step.
 
-Live: https://dhruva-portfolio.vercel.app (after deploy)
+Live: https://dhruvabs.vercel.app
 
 ## Sections
 
